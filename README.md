@@ -9,7 +9,7 @@
 ## Current activities
 
 * revisions on PNAS paper
-* keeping the [Open Tree of Life](https://tree.opentreeoflife.org) server from melting
+* keeping the [Open Tree of Life](https://tree.opentreeoflife.org) server from melting in the face of global warming
 
 ## Organization tools
 
